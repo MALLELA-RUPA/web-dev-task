@@ -1,0 +1,25 @@
+body{
+    background-color:powderblue;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    color:brown;
+    font-style: oblique;
+}
+h2{
+    color:orangered;
+    font-style: inherit;
+}
+h1{
+    color:red;
+    font-style: oblique;
+}
+#borderbox{
+    height: 1700px;
+    width: 1300px;
+    border-left: 40px solid pink;
+    border-right: 40px solid pink;
+    border-bottom: 40px solid pink;
+    border-top: 40px solid pink;
+}
